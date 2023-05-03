@@ -1,4 +1,4 @@
-<p align="center"> ### Hi there 👋 <p>
+<p align="center"> Hi there 👋 <p>
 
 ### I´m Andres Castellanos 😄. Senior Web full stack Developer specializing in back-end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP (Laravel, CodeIgniter, Phalcon), ReactJs, JavaScript, CSS, Angular, Bootstrap, MySQL, Oracle, Informix. Strong background in project management and customer relations under Scrum methodology.
 
